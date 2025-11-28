@@ -106,4 +106,11 @@ MySQL Server
 ## 📜 License
 
 This project is published under the MIT License.
+
 See the LICENSE file for full terms.
+
+## 👩‍🎓 Author
+
+Radadiya Bhavikaben Bavchandbhai
+
+MSc Data Analytics (2024–2025)
