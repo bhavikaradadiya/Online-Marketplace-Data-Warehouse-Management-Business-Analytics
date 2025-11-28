@@ -50,6 +50,11 @@ The project supports analytics for:
 
 ---
 
+## ✨ Entity Relationship Diagram
+<img width="625" height="425" alt="image" src="https://github.com/user-attachments/assets/a25f29d1-e8f8-4d8c-bdaf-de3f7ef330ff" />
+
+
+---
 ## ✨ Features
 
 ### ✔ Conceptual ER Diagram (Chen Notation)  
