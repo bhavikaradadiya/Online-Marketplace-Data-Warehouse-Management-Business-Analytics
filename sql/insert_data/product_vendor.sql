@@ -1,0 +1,25 @@
+/*
+-- Query: SELECT * FROM online_market_data_warehouse.product_vendor
+LIMIT 0, 500
+
+-- Date: 2025-11-29 01:41
+*/
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (202,101,20000);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (203,103,500);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (203,102,490);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (204,102,2500);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (205,101,1000);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (205,103,1050);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (206,103,750);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (206,104,730);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (207,104,1100);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (207,101,1200);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (208,104,2500);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (208,105,2300);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (208,103,2250);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (209,105,500);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (209,102,550);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (210,101,1200);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (210,105,1100);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (201,101,2500);
+INSERT INTO `` (`P_ID`,`V_ID`,`Price`) VALUES (201,102,2400);
