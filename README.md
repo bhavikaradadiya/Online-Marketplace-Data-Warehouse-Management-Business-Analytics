@@ -57,13 +57,13 @@ The project supports analytics for:
 ---
 ## ✨ Features
 
-### ✔ Conceptual ER Diagram (Chen Notation)  
-### ✔ Logical & Physical Database Schema  
-### ✔ Fully Normalized Tables  
-### ✔ Complex SQL Queries  
-### ✔ Trigger to Validate Rating (≤ 5)  
-### ✔ Stored Procedure: Monthly Profit Report  
-### ✔ Operational & Customer Insights  
+ ✔ Conceptual ER Diagram (Chen Notation)  
+ ✔ Logical & Physical Database Schema  
+ ✔ Fully Normalized Tables  
+ ✔ Complex SQL Queries  
+ ✔ Trigger to Validate Rating (≤ 5)  
+ ✔ Stored Procedure: Monthly Profit Report  
+ ✔ Operational & Customer Insights  
 
 ---
 
