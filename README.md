@@ -66,6 +66,13 @@ The project supports analytics for:
  ✔ Operational & Customer Insights  
 
 ---
+## 📘  Analytical SQL Use Cases
+- Revenue and Profit Analysis
+- Vendor Performance Analysis
+- Customer Preference Analysis
+- Product Return Ratio Analysis
+- Delivery Failure and Cost Analysis
+- Pricing Optimization Analysis
 
 ## 📊 Sample SQL Queries
 
@@ -101,6 +108,14 @@ The project supports analytics for:
 <img width="291" height="102" alt="image" src="https://github.com/user-attachments/assets/1d8f9e49-0b2a-4897-a183-48f1b0ee2541" />
 
 ---
+Full SQL implementations available in queries.sql
+
+## Resume Highlights
+
+- Built normalized online marketplace data warehouse (1NF–3NF)
+- Developed 10 SQL analytical queries for business insight generation
+- Implemented triggers and stored procedures for automation and integrity
+- Generated insights on profitability, customer behavior and operational performance
 
 ## 🧰 Tools Used
 
