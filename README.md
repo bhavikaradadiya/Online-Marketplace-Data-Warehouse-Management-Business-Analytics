@@ -108,7 +108,7 @@ The project supports analytics for:
 <img width="291" height="102" alt="image" src="https://github.com/user-attachments/assets/1d8f9e49-0b2a-4897-a183-48f1b0ee2541" />
 
 ---
-Full SQL implementations available in queries.sql
+Full SQL implementations available in queries.sql under sql folder.
 
 ## Resume Highlights
 
